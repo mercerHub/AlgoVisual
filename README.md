@@ -1,12 +1,12 @@
-![](https://raw.githubusercontent.com/TamimEhsan/AlgorithmVisualizer/master/Assets/homepage.JPG)
+![](https://github.com/mercerHub/AlgoVisual/blob/main/Assets/homepage.JPG)
 
 # Algorithm Visualizer
 
 A better visualization of different algorithms made with React. 
 
-Visit : https://tamimehsan.github.io/AlgorithmVisualizer/
+Visit : https://github.com/mercerHub/AlgoVisual
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.AlgorithmVisualizer)
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FmercerHub%2FAlgoVisual&labelColor=%232ccce4&countColor=%232ccce4)
 
 This is made to be the second version of my previous pathfinding project made with C++ igraphics. But then added some more visualizations too.  
 

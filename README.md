@@ -70,9 +70,8 @@ I took inspirations from the following sources for some of the segments.
 - `Recursion tree visualizer`: [Recursion Tree Visualizer](https://github.com/brpapa/recursion-tree-visualizer)
 - `Turing Machine`: [Tursi](https://github.com/schaetzc/tursi)
 
-### Note to self:
-
-To deploy recent changes to page
+### To visit the site follow the link:
+https://mercerhub.github.io/AlgoVisual/
 
 ```
 npm run build

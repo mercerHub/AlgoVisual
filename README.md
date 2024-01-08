@@ -73,15 +73,5 @@ I took inspirations from the following sources for some of the segments.
 ### To visit the site follow the link:
 https://mercerhub.github.io/AlgoVisual/
 
-```
-npm run build
-npm run deploy
-```
-
-
-
-### Inspiration for next sections
-
-- [University of San Francisco Site](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) 
-- ​    [algorithm-visualizer](https://github.com/algorithm-visualizer)    /      [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)     
+ 
 
